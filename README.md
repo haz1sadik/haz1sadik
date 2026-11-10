@@ -11,13 +11,13 @@ I'm a Computer Science undergraduate at Universiti Putra Malaysia focused on def
     <td width="50%" align="center">
       <a href="WRITEUP_1_URL"><img src="assets/writeup-1.png" alt="Writeup 1 thumbnail" width="100%"></a><br>
       <b><a href="WRITEUP_1_URL">[Writeup 1 title]</a></b>
-    </td>
+    <!-- </td>
     <td width="50%" align="center">
       <a href="WRITEUP_2_URL"><img src="assets/writeup-2.png" alt="Writeup 2 thumbnail" width="100%"></a><br>
       <b><a href="WRITEUP_2_URL">[Writeup 2 title]</a></b>
-    </td>
+    </td> -->
   </tr>
-  <tr>
+  <!-- <tr>
     <td width="50%" align="center">
       <a href="WRITEUP_3_URL"><img src="assets/writeup-3.png" alt="Writeup 3 thumbnail" width="100%"></a><br>
       <b><a href="WRITEUP_3_URL">[Writeup 3 title]</a></b>
@@ -26,7 +26,7 @@ I'm a Computer Science undergraduate at Universiti Putra Malaysia focused on def
       <a href="WRITEUP_4_URL"><img src="assets/writeup-4.png" alt="Writeup 4 thumbnail" width="100%"></a><br>
       <b><a href="WRITEUP_4_URL">[Writeup 4 title]</a></b>
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 
