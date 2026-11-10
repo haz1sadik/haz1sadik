@@ -36,13 +36,13 @@ I'm a Computer Science undergraduate at Universiti Putra Malaysia focused on def
 An isolated detonation environment (FlareVM + REMnux on Proxmox, behind a firewalled network) for safely running and observing live malware samples.
 - Ran static and dynamic analysis on real-world samples and published reports with executive summaries, IoCs, threat intel and MITRE ATT&CK mapping.
 - Reverse-engineered a four-stage infection chain from a WhatsApp campaign targeting my faculty: a malicious VHD (MOTW bypass) → DLL side-loading through a signed binary → encoded PowerShell downloader → rogue ManageEngine Endpoint Central agent for C2.
-- 🔗 [link to reports / repo]
+- 🔗 [Click Here to View](https://github.com/haz1sadik/Personal-Cybersecurity-Homelab/tree/main/MalwareAnalysis)
 
 ### 🛡️ Cybersecurity Homelab
 A multi-zone virtualised network on Proxmox VE that simulates a segmented enterprise.
 - Set up OPNsense as the perimeter firewall, with VLANs separating Offensive, Defensive and Malware Analysis zones.
 - Deployed Wazuh SIEM across Windows and Linux endpoints, reaching a 90% true-positive rate across the attack scenarios I tested.
-- 🔗 [link to repo / write-up]
+- 🔗 [Click Here to View](https://github.com/haz1sadik/Personal-Cybersecurity-Homelab)
 
 ### 🤖 Multimodal Malware Detection System (Final Year Project, in progress)
 A web-based malware classifier with a two-stream late-fusion design. It combines classical ML on extracted features with a ResNet CNN that analyses the visual byte patterns of binaries.
