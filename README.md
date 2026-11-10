@@ -9,7 +9,7 @@ I'm a Computer Science undergraduate at Universiti Putra Malaysia focused on def
 <table>
   <tr>
     <td width="50%" align="center">
-      <a href="https://drive.google.com/file/d/1IoOfKmm7Jg2SZ2Joeu96vZHCoME-epAC/"><img src="assets/FSKTM_UPM_Malware_Analysis.png" alt="FSKTM UPM Malware Analysis thumbnail" width="100%"></a><br>
+      <a href="https://drive.google.com/file/d/1IoOfKmm7Jg2SZ2Joeu96vZHCoME-epAC/"><img src="assets/FSKTM_UPM_Malware_Analysispng.png" alt="FSKTM UPM Malware Analysis thumbnail" width="100%"></a><br>
       <b><a href="https://drive.google.com/file/d/1IoOfKmm7Jg2SZ2Joeu96vZHCoME-epAC/">FSKTM UPM Malware Analysis</a></b>
     <!-- </td>
     <td width="50%" align="center">
