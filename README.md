@@ -1,4 +1,5 @@
-<img src="assets/github-header-banner.png" alt="Writeup 1 thumbnail" width="100%">
+<img src="assets/github-header-banner.png" alt="Muhammad Hazuan" width="100%">
+
 # Hi, I'm Muhammad Hazuan 👋
 
 I'm a Computer Science undergraduate at Universiti Putra Malaysia focused on defensive security: malware analysis, SIEM engineering and secure infrastructure. I'm looking for a cybersecurity internship starting March 2027.
