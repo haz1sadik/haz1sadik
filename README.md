@@ -2,7 +2,7 @@
 
 # Hi, I'm Muhammad Hazuan 👋
 
-I'm a Computer Science undergraduate at Universiti Putra Malaysia focused on defensive security: malware analysis, SIEM engineering and secure infrastructure. I'm looking for a cybersecurity internship starting March 2027.
+I'm a Computer Science undergraduate at Universiti Putra Malaysia focused on defensive security: malware analysis, SIEM engineering and secure infrastructure. I'm looking for a cybersecurity internship starting February 2027.
 
 ## Writeups
 
